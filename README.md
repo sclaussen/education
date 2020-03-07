@@ -1,9 +1,5 @@
 ### Book Series
 
-- [Loans](https://pls.overdrive.com/peninsulaca-sanmateo/kids/account/loans)
-- [Holds](https://pls.overdrive.com/peninsulaca-sanmateo/kids/account/holds)
-- [AMZ](https://www.amazon.com/hz/mycd/myx#/home/content/booksAll/dateDsc)
-
 | GRL | Title |
 |:-|:-|
 | K  | <a href="https://www.kidsbookseries.com/nate-the-great">Nate the Great</a> (<a href="https://pls.overdrive.com/peninsulaca-sanmateo/kids/search?query=Nate the Great">Library</a>, <a href="#nate-the-great">Details</a>) |
