@@ -240,6 +240,8 @@
 | Who was: Who Was Cesar Chavez? (900L, 8-12) |
 | Where the Mountain Meets the Moon |
 | Starry River of the Sky Paperback |
+| Lord of the Rings: The Return of the King (6.2, 920L, 9/22/134,462, 12 and up) |
+| The Hobbit (6.6, 95,356) (second time) |
 
 
 
