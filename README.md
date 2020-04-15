@@ -1,3 +1,6 @@
+https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-must-reads-for-kids-9-14
+
+
 ### Book Series
 
 | GRL | Title |
@@ -218,6 +221,7 @@
 | Geronimo Stilton |
 | Percy Jackson & the Olympians: The Titan's Curse (4.3, 630L, 4.2/10.0/114711, W, 60, 9-12) |
 | Percy Jackson & the Olympians: The Battle Of The Labyrinth (3.3, 590L, 4.1/12.0/122983, W, 40, 9-12) |
+| The Castle in the Attic |
 | Percy Jackson & the Olympians: The Last Olympian (3.5, 620L, 4.3/13.0/130543, S, 40, 9-12) |
 | Harry Potter: Harry Potter and the Chamber of Secrets (5.9, 940L, 6.7/14/32081, V, 50, 9 and up) |
 | Harry Potter: Harry Potter and the Prisoner of Azkaban (5.9, 880L, 6.7/18/32082, V, 50, 9 and up) |
@@ -227,6 +231,8 @@
 | Wizard of Oz |
 | Harry Potter: Harry Potter and the Order of the Phoenix (5.9, 950L, 7.2/44/69785, W, 60, 9 and up) |
 | Harry Potter: Harry Potter and the Half-Blood Prince (6.5, 920L, 7.2/29/89154, W, 60, 9 and up) |
+| The One and Only Ivan |
+| Because of Winn-Dixie |
 | Harry Potter: Harry Potter and the Deathly Hallows (7.4, 880L, 6.9/34/116230, Z, 70, 9 and up) |
 | Heroes of Olympus: The Lost Hero (3.8, 660L, 4.5/19.0/140427, W, 60, 9-12) |
 | Heroes of Olympus: The Son of Neptune (3.7, 640L, 4.7/17.0/146841, W, 60, 9-12) |
@@ -240,8 +246,15 @@
 | Who was: Who Was Cesar Chavez? (900L, 8-12) |
 | Where the Mountain Meets the Moon |
 | Starry River of the Sky Paperback |
-| Lord of the Rings: The Return of the King (6.2, 920L, 9/22/134,462, 12 and up) |
+| Lord of the Rings: The Return of the King (6.2, 920L, 9/22/134,462, 12 and up) |g
+| Where the Mountain Meets the Moon |
+| Bo at Ballard Creek |
+| Merci Suarez Changes Gears |
 | The Hobbit (6.6, 95,356) (second time) |
+| The Phantom Tollbooth |
+| Artemis Fowl: Artemis Fowl (6.2, 600L, 5/9/54675, Y, 60, 9 and up) |
+| The Invention of Hugo Cabret |
+| Walk Two Moons |
 
 
 
