@@ -213,6 +213,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
 | Percy Jackson & the Olympians: The Lightning Thief (4.7, 680L, 4.7/13.0/89885, W, 60, 9-12) |
 | The Merry Adventures of Robin Hood |
 | Geronimo Stilton: A Very Merry Christmas (3.7, 650L, 4.3/1.0/126582, O, 34, 7-10) ??? |
+| Wild Robot |
 | Harry Potter: Harry Potter and the Sorcerer's Stone (6, 880L, 5.5/12/26759, V, 50, 9 and up) (STARTED 12/03/18) |
 | Geronimo Stilton: Lost Treasure of the Emerald Eye (3.2, 530L, 3.7/1.0/77127, O, 34, 7-10) |
 | Percy Jackson & the Olympians: The Sea Of Monsters (4.7, 680L, 4.6/9.0/105933, W, 40, 9-12) |
@@ -252,9 +253,10 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
 | Merci Suarez Changes Gears |
 | The Hobbit (6.6, 95,356) (second time) |
 | The Phantom Tollbooth |
-| Artemis Fowl: Artemis Fowl (6.2, 600L, 5/9/54675, Y, 60, 9 and up) |
 | The Invention of Hugo Cabret |
 | Walk Two Moons |
+| Artemis Fowl: Artemis Fowl (6.2, 600L, 5/9/54675, Y, 60, 9 and up) |
+| The Tiger Rising |
 
 
 
