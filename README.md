@@ -302,7 +302,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     treachery, and ample adventure, and, fortunately, the milk he has
     procured is rescued at every turn.”
 
-- **Because of Winn Dixie by Kate Di Camillo (4.8)**
+- **Because of Winn Dixie by Kate Di Camillo (4.8)** (read)
   - Interest Level: Grades 2, 3
   - Heartwarming contemporary story with accessible vocabulary.  “One
     summer's day, ten-year-old India Opal Buloni goes down to the
@@ -364,7 +364,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     common sense" develop quickly as she finds stolen goods, escapes
     imprisonment, and identifies a poisoner.”
 
-- **Bob by Wendy Mass and Rebecca Stead (4.7)**
+- **Bob by Wendy Mass and Rebecca Stead (4.7)** (own)
   - Interest Level: Grades 3, 4
   - Sweet fantasy story with environmental overtones.  “It’s been five
     years since Livy and her family have visited Livy’s grandmother in
@@ -401,7 +401,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     everyone Goldie loves. And it will take a daring thief to stop
     him.”
 
-- **Endling the Last by Katherine Applegate (4.8)**
+- **Endling the Last by Katherine Applegate (4.8)** (own)
   - Interest Level: Grades 3, 4, 5
   - Accessible vocabulary, fast-paced fantasy.“Byx has always thought
     of herself as last: last-born sibling, the youngest in her whole
@@ -418,7 +418,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     they discover the true machinations behind the dairnes's
     eradication.``
 
-- **Wonder by RJ Palacio (4.9)**
+- **Wonder by RJ Palacio (4.9)** (own)
   - Interest Level: Grades 3, 4, 5
   - Contemporary children’s classic, accessible vocabulary.
     “10-year-old August is a homeschooled boy who is about to take the
@@ -430,7 +430,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     their parents, the school administrators the list goes on and
     on. A powerful contemporary story of overcoming difficulties.”
 
-- *Three Times Lucky by Sheila Turnage (4.5)*
+- *Three Times Lucky by Sheila Turnage (4.5)* (own)
   - Interest Level: Grades 4, 5
   - Funny mystery with serious undertones, accessible vocabulary.
     “Rising 6th grader Miss Moses LoBeau lives in the small town of
@@ -464,7 +464,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     inevitable day when the boat will come back--and take her away
     forever from the only home she's known?”
 
-- **Pax by Sara Pennypacker (4.6)**
+- **Pax by Sara Pennypacker (4.6)** (own)
   - Interest Level: Grades 4, 5
   - Accessible vocabulary, complex and mature dystopian concepts.
     “Peter found Pax, a fox, when he was an orphaned kit, and he has
@@ -478,7 +478,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     separation is told in chapters that alternate between the fox and
     the boy's points of view.”
 
-- **Wonderling by Mira Bartok (4.4)**
+- **Wonderling by Mira Bartok (4.4)** (own)
   - Interest Level: Grades 4, 5
   - Fantasy tale with complex language and concepts.  “Thirteen, a fox
     groundling (creatures that are half animal, half human), has spent
@@ -493,7 +493,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     have to head ear-first into danger and return to The Home to find
     out what that destiny holds.”
 
-- **Girl Who Drank the Moon by Kelly Barnhill (4.7)**
+- **Girl Who Drank the Moon by Kelly Barnhill (4.7)** (own)
   - Interest Level: Grades 4, 5
   - Fantasy with complex themes and language.  “Luna is a young girl
     raised by a witch, a swamp monster, and a Perfectly Tiny Dragon,
