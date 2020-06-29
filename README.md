@@ -506,7 +506,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     journey. One year, Xan accidentally feeds a baby moonlight instead
     of starlight, filling the ordinary child with extraordinary
     magic. Xan decides she must raise this enmagicked girl, whom she
-    calls Luna, as her own.”  ```
+    calls Luna, as her own.”
 
 
 
