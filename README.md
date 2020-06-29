@@ -257,7 +257,245 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
 | Walk Two Moons |
 | Artemis Fowl: Artemis Fowl (6.2, 600L, 5/9/54675, Y, 60, 9 and up) |
 | The Tiger Rising |
+```
 
+```
+Flora and Ulysses (4.6)
+Interest Level: Grades 2, 3
+Funny, fast paced story with complex, sophisticated vocabulary.
+“Rescuing a squirrel after an accident involving a vacuum cleaner,
+comic-reading cynic Flora Belle Buckman is astonished when the
+squirrel, Ulysses, demonstrates astonishing powers of strength and
+flight after being revived. Novel interspersed with comic-style
+graphic sequences and full-page illustrations, rendered in
+black-and-white.”
+
+Toys Go Out by Emily Jenkins (4.4)
+Interest Level: Grades 2, 3
+Sweet humor, accessible vocabulary. “In six linked stories from Emily
+Jenkins, illustrated by Caldecott Medal winner Paul O. Zelinsky,
+readers will meet three extraordinary friends: Lumphy, a stuffed
+buffalo, StingRay a stuffed stingray, and Plastic... well, Plastic
+isn't quite sure what she is. They belong to the Little Girl who lives
+on the high bed with the fluffy pillows. Together is best for these
+three best friends. Together they look things up in the dictionary,
+explore the basement, and argue about the meaning of life. And
+together they face dogs, school, television commercials, the vastness
+of the sea, and the terrifying bigness of the washing machine.”
+
+Fortunately, the Milk by Neil Gaiman (4.6)
+Interest Level: Grades 2, 3
+Wacky humor, fast paced adventure, accessible vocabulary.  “A little
+boy and his little sister awake one morning, milkless. Their mother is
+away on business, their father is buried in the paper, and their
+Toastios are dry. What are young siblings to do? They impress upon
+their father that his tea is also without milk and sit back to watch
+their plan take effect. But something goes amiss, and their father
+doesn't return and doesn't return some more. When he does, finally, he
+has a story to tell, a story involving aliens; pirates; ponies;
+wumpires; and a stegosaurus professor who pilots a
+Floaty-Ball-Person-Carrier (which looks suspiciously like a hot-air
+balloon). There is time travel, treachery, and ample adventure, and,
+fortunately, the milk he has procured is rescued at every turn.”
+
+Because of Winn Dixie by Kate Di Camillo (4.8)
+Interest Level: Grades 2, 3
+Heartwarming contemporary story with accessible vocabulary.  “One
+summer's day, ten-year-old India Opal Buloni goes down to the local
+supermarket for some groceries - and comes home with a dog. But
+Winn-Dixie is no ordinary dog. It's because of Winn-Dixie that Opal
+begins to make friends. And it's because of Winn-Dixie that she
+finally dares to ask her father about her mother, who left when Opal
+was three. In fact, as Opal admits, just about everything that happens
+that summer is because of Winn-Dixie.”
+
+Half Magic by Edward Eager (4.7)
+Interest Level: Grades 2, 3
+Classic children’s fantasy series, Accessible vocabulary.  “It all
+begins with a strange coin on a sun-warmed sidewalk. Jane finds the
+coin, and because she and her siblings are having the worst, most
+dreadfully boring summer ever, she idly wishes something exciting
+would happen. And something does: Her wish is granted. Or not
+quite. Only half of her wish comes true. It turns out the coin grants
+wishes--but only by half, so that you must wish for twice as much as
+you want. Wishing for two times some things is a cinch, but other
+doubled wishes only cause twice as much trouble. What is half of twice
+a talking cat? Or to be half-again twice not-here? And how do you
+double your most heartfelt wish, the one you care about so much it has
+to be perfect?”
+
+Lost Girl Anne Ursu (4.7)
+Interest Level: Grades 3, 4
+Complex, fantastical themes, accessible vocabulary.  “When you're an
+identical twin, your story always starts with someone else. For Iris,
+that means her story starts with Lark. Iris has always been the
+grounded, capable, and rational one; Lark has been inventive, dreamy,
+and brilliant--and from their first moments in the world together,
+they've never left each other's side. Everyone around them realized
+early on what the two sisters already knew: they had better outcomes
+when they were together.  When fifth grade arrives, however, it's
+decided that Iris and Lark should be split into different classrooms,
+and something breaks in them both. Iris is no longer so confident;
+Lark retreats into herself as she deals with challenges at school. And
+at the same time, something strange is happening in the city around
+them, things both great and small going missing without a trace.As
+Iris begins to understand that anything can be lost in the blink of an
+eye, she decides it's up to her to find a way to keep her sister
+safe.”
+
+Tale of Two Castles by Gail Carson Levine (4.5)
+Interest Level: Grades 3, 4
+Fantasy, easily accessible vocabulary and plot elements.  “Hoping to
+apprentice as an actor, Elodie travels from her rural home to the city
+of Two Castles. Her parents advise her to "stay clear of the crafty
+dragons and shape-shifting ogres" and "beware the whited sepulcher,"
+but when she's robbed and then rejected as an actor, she apprentices
+herself to crafty dragon Meenore as a detective. Shape-shifting Count
+Jonty Um, a kindly ogre, is their first client. Elodie's sleuthing in
+the ogre's castle introduces her to many "whited sepulchers." But who
+is to be trusted and who isn't? -- what with a greedy King, the
+Princess Renn, a penniless third son of a miller with a
+too-clever-by-half cat, and various courtly folk. Elodie's powers of
+"inducing, deducing and using common sense" develop quickly as she
+finds stolen goods, escapes imprisonment, and identifies a poisoner.”
+
+Bob by Wendy Mass and Rebecca Stead (4.7)
+Interest Level: Grades 3, 4
+Sweet fantasy story with environmental overtones.  “It’s been five
+years since Livy and her family have visited Livy’s grandmother in
+Australia. Now that she’s back, Livy has the feeling she’s forgotten
+something really, really important about Gran’s house. It turns out
+she’s right. Bob, a short, greenish creature dressed in a chicken
+suit, didn’t forget Livy, or her promise. He’s been waiting five years
+for her to come back, hiding in a closet like she told him to. He
+can’t remember who―or what―he is, where he came from, or if he even
+has a family. But five years ago Livy promised she would help him find
+his way back home. Now it’s time to keep that promise. Clue by clue,
+Livy and Bob will unravel the mystery of where Bob comes from, and
+discover the kind of magic that lasts forever.”
+
+Museum of Thieves by Lian Tanner (4.1)
+Interest Level: Grades 3, 4, 5
+Fast paced plot with fantastical elements and accessible
+vocabulary. “Welcome to the tyrannical city of Jewel, where impatience
+is a sin and boldness is a crime. Goldie Roth has lived in Jewel all
+her life. Like every child in the city, she wears a silver guard chain
+and is forced to obey the dreaded Blessed Guardians. She has never
+done anything by herself and won't be allowed out on the streets
+unchained until Separation Day.  When Separation Day is canceled,
+Goldie, who has always been both impatient and bold, runs away,
+risking not only her own life but also the lives of those she has left
+behind. In the chaos that follows, she is lured to the mysterious
+Museum of Dunt, where she meets the boy Toadspit and discovers
+terrible secrets. Only the cunning mind of a thief can understand the
+museum's strange, shifting rooms. Fortunately, Goldie has a talent for
+thieving.  Which is just as well, because the leader of the Blessed
+Guardians has his own plans for the museum--plans that threaten the
+lives of everyone Goldie loves. And it will take a daring thief to
+stop him.”
+
+Endling the Last by Katherine Applegate (4.8)
+Interest Level: Grades 3, 4, 5
+Accessible vocabulary, fast-paced fantasy.“Byx has always thought of
+herself as last: last-born sibling, the youngest in her whole family,
+and least adept at all the skills valued by the caninelike
+"dairnes". But when her family, the last-known group of dairnes in
+Nedarra, is hunted down and murdered by humans under the rule of the
+villainous Murdano, she truly becomes the last--an Endling, the sole
+survivor of a species. Byx sets out on a desperate but hopeful journey
+in search of Dairneholm, a mythical settlement of dairnes. Along the
+way she is joined by an increasingly unlikely group of adventurers
+including Khala the human, a girl disguised as a boy with a mysterious
+past, and Tobble, the small and fiercely loyal wobbyk. Their mission
+becomes more dangerous as they discover the true machinations behind
+the dairnes's eradication.``
+
+Wonder by RJ Palacio (4.9)
+Interest Level: Grades 3, 4, 5
+Contemporary children’s classic, accessible vocabulary.  “10-year-old
+August is a homeschooled boy who is about to take the plunge into a
+private middle school. Even 27 operations later, Auggie's face has
+what doctors call anomalies; Auggie himself calls it my tiny,
+mushed-up face. He is gentle and smart, but his mere physical presence
+sends the lives of a dozen people into a tailspin: his sister, his old
+friends, the new kids he meets, their parents, the school
+administrators the list goes on and on. A powerful contemporary story
+of overcoming difficulties.”
+
+Three Times Lucky by Sheila Turnage (4.5)
+Interest Level: Grades 4, 5
+Funny mystery with serious undertones, accessible vocabulary.  “Rising
+6th grader Miss Moses LoBeau lives in the small town of Tupelo
+Landing. She washed ashore in a hurricane 11 years ago, and she's been
+making waves ever since. Although she hopes someday to find her
+'upstream mother', she's found a home with the Colonel - a cafe owner
+with a forgotten past of his own - and Miss Lana, the fabulous cafe
+hostess, and will protect those she loves with every bit of her strong
+will and tough attitude. So when a lawman comes to town asking about a
+murder, Mo and her best friend set out to uncover the truth in hopes
+of saving the only family she has ever known.”
+
+Orphan Island by Laurel Snyder (3.9)
+Interest Level: Grades 4, 5
+Serious fable about growing up. Open ended, complex emotional
+elements, accessible vocabulary.  “Nine children live on a mysterious
+island. On the island, everything is perfect. The sun rises in a sky
+filled with dancing shapes; the wind, water, and trees shelter and
+protect those who live there; when the nine children go to sleep in
+their cabins, it is with full stomachs and joy in their hearts. Only
+one thing ever changes: on that day, each year, when a boat appears
+from the mist upon the ocean carrying one young child to join
+them--and taking the eldest one away, never to be seen again. Today's
+Changing is no different. The boat arrives, taking away Jinny's best
+friend, Deen, replacing him with a new little girl named Ess, and
+leaving Jinny as the new Elder. Jinny knows her responsibility now--to
+teach Ess everything she needs to know about the island, to keep
+things as they've always been. But will she be ready for the
+inevitable day when the boat will come back--and take her away forever
+from the only home she's known?”
+
+Pax by Sara Pennypacker (4.6)
+Interest Level: Grades 4, 5
+Accessible vocabulary, complex and mature dystopian concepts.  “Peter
+found Pax, a fox, when he was an orphaned kit, and he has kept him as
+a pet since his mother's sudden death, five years earlier. Now Peter's
+stern father is bound for an unspecified war--one fought at least
+partly on domestic soil--forcing 12-year-old Peter to move in with his
+grandfather, and to release Pax. It takes less than a night for Peter
+to become overwhelmed with remorse--by morning, he is hiking hundreds
+of miles to the spot where he reluctantly abandoned Pax. The aftermath
+of that separation is told in chapters that alternate between the fox
+and the boy's points of view.”
+
+Wonderling by Mira Bartok (4.4)
+Interest Level: Grades 4, 5
+Fantasy tale with complex language and concepts.  “Thirteen, a fox
+groundling (creatures that are half animal, half human), has spent
+most of his life in "the Home," a horrid orphanage/workhouse run by
+the evil Mrs. Carbunkle. When he saves a bird groundling named
+Trinket, the two hatch an escape plan, and Trinket renames him Arthur,
+in honor of the brave medieval king. Once Arthur and Trinket are free
+from Mrs. Carbunkle, they set off on an adventure that will test
+Arthur's destiny as a Wonderling, including his very unusual abilities
+to understand and speak to animals and to unknowingly sing a haunting
+song each night as he sleeps. He will have to head ear-first into
+danger and return to The Home to find out what that destiny holds.”
+
+Girl Who Drank the Moon by Kelly Barnhill (4.7)
+Interest Level: Grades 4, 5
+Fantasy with complex themes and language.  “Luna is a young girl
+raised by a witch, a swamp monster, and a Perfectly Tiny Dragon, who
+must unlock the powerful magic buried deep inside her. Every year, the
+people of the Protectorate leave a baby as an offering to the witch
+who lives in the forest. They hope this sacrifice will keep her from
+terrorizing their town. But the witch in the forest, Xan, is kind and
+gentle. Xan rescues the abandoned children and delivers them to
+welcoming families on the other side of the forest, nourishing the
+babies with starlight on the journey. One year, Xan accidentally feeds
+a baby moonlight instead of starlight, filling the ordinary child with
+extraordinary magic. Xan decides she must raise this enmagicked girl,
+whom she calls Luna, as her own.”
+```
 
 
 ### Creepy
