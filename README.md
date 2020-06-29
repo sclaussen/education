@@ -430,7 +430,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     their parents, the school administrators the list goes on and
     on. A powerful contemporary story of overcoming difficulties.”
 
-- *Three Times Lucky by Sheila Turnage (4.5)* (own)
+- **Three Times Lucky by Sheila Turnage (4.5)** (own)
   - Interest Level: Grades 4, 5
   - Funny mystery with serious undertones, accessible vocabulary.
     “Rising 6th grader Miss Moses LoBeau lives in the small town of
