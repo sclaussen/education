@@ -262,7 +262,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
 
 ## Lit Club Books
 
-- *Flora and Ulysses (4.6)*
+- **Flora and Ulysses (4.6)**
   - Interest Level: Grades 2, 3
   - Funny, fast paced story with complex, sophisticated vocabulary.
     “Rescuing a squirrel after an accident involving a vacuum cleaner,
@@ -272,7 +272,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     graphic sequences and full-page illustrations, rendered in
     black-and-white.”
 
-- *Toys Go Out by Emily Jenkins (4.4)*
+- **Toys Go Out by Emily Jenkins (4.4)**
   - Interest Level: Grades 2, 3
   - Sweet humor, accessible vocabulary. “In six linked stories from
     Emily Jenkins, illustrated by Caldecott Medal winner Paul
@@ -286,7 +286,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     school, television commercials, the vastness of the sea, and the
     terrifying bigness of the washing machine.”
 
-- *Fortunately, the Milk by Neil Gaiman (4.6)*
+- **Fortunately, the Milk by Neil Gaiman (4.6)**
   - Interest Level: Grades 2, 3
   - Wacky humor, fast paced adventure, accessible vocabulary.  “A
     little boy and his little sister awake one morning,
@@ -302,7 +302,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     treachery, and ample adventure, and, fortunately, the milk he has
     procured is rescued at every turn.”
 
-- *Because of Winn Dixie by Kate Di Camillo (4.8)*
+- **Because of Winn Dixie by Kate Di Camillo (4.8)**
   - Interest Level: Grades 2, 3
   - Heartwarming contemporary story with accessible vocabulary.  “One
     summer's day, ten-year-old India Opal Buloni goes down to the
@@ -313,7 +313,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     left when Opal was three. In fact, as Opal admits, just about
     everything that happens that summer is because of Winn-Dixie.”
 
-- *Half Magic by Edward Eager (4.7)*
+- **Half Magic by Edward Eager (4.7)**
   - Interest Level: Grades 2, 3
   - Classic children’s fantasy series, Accessible vocabulary.  “It all
     begins with a strange coin on a sun-warmed sidewalk. Jane finds
@@ -328,7 +328,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     And how do you double your most heartfelt wish, the one you care
     about so much it has to be perfect?”
 
-- *Lost Girl Anne Ursu (4.7)*
+- **Lost Girl Anne Ursu (4.7)**
   - Interest Level: Grades 3, 4
   - Complex, fantastical themes, accessible vocabulary.  “When you're
     an identical twin, your story always starts with someone else. For
@@ -347,7 +347,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     anything can be lost in the blink of an eye, she decides it's up
     to her to find a way to keep her sister safe.”
 
-- *Tale of Two Castles by Gail Carson Levine (4.5)*
+- **Tale of Two Castles by Gail Carson Levine (4.5)**
   - Interest Level: Grades 3, 4
   - Fantasy, easily accessible vocabulary and plot elements.  “Hoping
     to apprentice as an actor, Elodie travels from her rural home to
@@ -364,7 +364,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     common sense" develop quickly as she finds stolen goods, escapes
     imprisonment, and identifies a poisoner.”
 
-- *Bob by Wendy Mass and Rebecca Stead (4.7)*
+- **Bob by Wendy Mass and Rebecca Stead (4.7)**
   - Interest Level: Grades 3, 4
   - Sweet fantasy story with environmental overtones.  “It’s been five
     years since Livy and her family have visited Livy’s grandmother in
@@ -380,7 +380,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     unravel the mystery of where Bob comes from, and discover the kind
     of magic that lasts forever.”
 
-- *Museum of Thieves by Lian Tanner (4.1)*
+- **Museum of Thieves by Lian Tanner (4.1)**
   - Interest Level: Grades 3, 4, 5
   - Fast paced plot with fantastical elements and accessible
     vocabulary. “Welcome to the tyrannical city of Jewel, where
@@ -401,7 +401,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     everyone Goldie loves. And it will take a daring thief to stop
     him.”
 
-- *Endling the Last by Katherine Applegate (4.8)*
+- **Endling the Last by Katherine Applegate (4.8)**
   - Interest Level: Grades 3, 4, 5
   - Accessible vocabulary, fast-paced fantasy.“Byx has always thought
     of herself as last: last-born sibling, the youngest in her whole
@@ -418,7 +418,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     they discover the true machinations behind the dairnes's
     eradication.``
 
-- *Wonder by RJ Palacio (4.9)*
+- **Wonder by RJ Palacio (4.9)**
   - Interest Level: Grades 3, 4, 5
   - Contemporary children’s classic, accessible vocabulary.
     “10-year-old August is a homeschooled boy who is about to take the
@@ -444,7 +444,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     uncover the truth in hopes of saving the only family she has ever
     known.”
 
-- *Orphan Island by Laurel Snyder (3.9)*
+- **Orphan Island by Laurel Snyder (3.9)**
   - Interest Level: Grades 4, 5
   - Serious fable about growing up. Open ended, complex emotional
     elements, accessible vocabulary.  “Nine children live on a
@@ -464,7 +464,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     inevitable day when the boat will come back--and take her away
     forever from the only home she's known?”
 
-- *Pax by Sara Pennypacker (4.6)*
+- **Pax by Sara Pennypacker (4.6)**
   - Interest Level: Grades 4, 5
   - Accessible vocabulary, complex and mature dystopian concepts.
     “Peter found Pax, a fox, when he was an orphaned kit, and he has
@@ -478,7 +478,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     separation is told in chapters that alternate between the fox and
     the boy's points of view.”
 
-- *Wonderling by Mira Bartok (4.4)*
+- **Wonderling by Mira Bartok (4.4)**
   - Interest Level: Grades 4, 5
   - Fantasy tale with complex language and concepts.  “Thirteen, a fox
     groundling (creatures that are half animal, half human), has spent
@@ -493,7 +493,7 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
     have to head ear-first into danger and return to The Home to find
     out what that destiny holds.”
 
-- *Girl Who Drank the Moon by Kelly Barnhill (4.7)*
+- **Girl Who Drank the Moon by Kelly Barnhill (4.7)**
   - Interest Level: Grades 4, 5
   - Fantasy with complex themes and language.  “Luna is a young girl
     raised by a witch, a swamp monster, and a Perfectly Tiny Dragon,
