@@ -246,9 +246,8 @@ https://www.npr.org/2013/08/05/207315023/the-ultimate-backseat-bookshelf-100-mus
 | Lord of the Rings: The Two Towers (6.3, 810L, 8.4/23/143,436, 12 and up) |
 | Who was: Who Was Cesar Chavez? (900L, 8-12) |
 | Where the Mountain Meets the Moon |
-| Starry River of the Sky Paperback |
+| Starry River of the Sky |
 | Lord of the Rings: The Return of the King (6.2, 920L, 9/22/134,462, 12 and up) |g
-| Where the Mountain Meets the Moon |
 | Bo at Ballard Creek |
 | Merci Suarez Changes Gears |
 | The Hobbit (6.6, 95,356) (second time) |
